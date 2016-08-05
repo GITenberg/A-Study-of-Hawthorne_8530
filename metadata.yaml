@@ -1,0 +1,26 @@
+_repo: A-Study-of-Hawthorne_8530
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lathrop, George Parsons
+    birthdate: 1851
+    deathdate: 1898
+    gutenberg_agent_id: '2341'
+    url: http://www.gutenberg.org/2009/agents/2341
+    wikipedia: http://en.wikipedia.org/wiki/George_Parsons_Lathrop
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hawthorne, Nathaniel, 1804-1864'
+- !lcc 'PS'
+- !lcsh 'Novelists, American -- 19th century -- Biography'
+- GITenberg
+title: A Study of Hawthorne
+url: http://www.gutenberg.org/ebooks/8530
